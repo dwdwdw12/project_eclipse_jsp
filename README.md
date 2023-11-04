@@ -21,12 +21,19 @@ Making airline website by eclipse and jsp using MVC pattern
 ![ppt19](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/e046a181-e89d-47d6-b7bd-f2d9dfd46f01)
 ![ppt20](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/8975471a-794c-470d-9321-b004475ad0cc)
 
-https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/d1a1fc3d-17fb-4899-89f4-52c79ba192c5
-----------------------------------------------------------------------------------------------------
+시연영상1 - 회원가입, 아이디찾기
 https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/8635346a-921f-4458-a47c-73455a3951a8
+
+시연영상2 - 마이페이지, 항공운항내역
 https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/a13a0593-611c-4952-a04c-e32ab3c70e56
+
+시연영상3 - 게시판1
 https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/c043d5a0-a931-4c90-b04f-d76c4e8f6aba
+
+시연영상4 - 게시판2
 https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/8f88265e-da7c-4855-bb9b-8448ba7e0c2a
+
+시연영상5 - 게시판3
 https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/4e83c79a-7a2d-4d5e-82e7-f08ebcedd938
 
 
