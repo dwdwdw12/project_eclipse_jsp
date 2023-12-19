@@ -20,7 +20,7 @@ Making airline website by eclipse and jsp using MVC pattern
 ## 개발환경
 <details>
   <summary>
-    ER Diagram, Class Diagram
+    개발환경
   </summary>
    
 ![ppt03](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/b8adf69b-c905-4614-97ae-b13aa5d389b1)
@@ -29,7 +29,7 @@ Making airline website by eclipse and jsp using MVC pattern
 ## 프로젝트 개발 일정 및 역할분담
 <details>
   <summary>
-    ER Diagram, Class Diagram
+    프로젝트 개발 일정 및 역할분담
   </summary>
    
 ![ppt04](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/5178a0f6-1a39-451a-ad9c-50833d67de4a)
