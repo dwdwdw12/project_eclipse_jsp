@@ -15,7 +15,7 @@ Making airline website by eclipse and jsp using MVC pattern
    
 ![ppt01](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/b60e86ee-c396-45c7-ab4a-49aad2954eca)
 ![ppt02](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/f8f0b8f7-88a0-4227-989b-e6d1715047de)
-</details>details>
+</details>
 
 ## 개발환경
 <details>
