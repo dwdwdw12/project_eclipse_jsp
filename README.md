@@ -6,7 +6,7 @@ Making airline website by eclipse and jsp using MVC pattern
 2. [프로젝트 개발 일정 및 역할분담](#-조원)     
 3. [ER Diagram](#-기능-명세서)   
 4. [Class Diagram](#-diagram)   
-5. [기능 요구사항](#-기능-요구사항)     
+5. [기능 요구사항](#기능-요구사항)     
 6. [시연 영상](#-시연-영상)
 
    
@@ -20,14 +20,15 @@ Making airline website by eclipse and jsp using MVC pattern
 ![ppt08](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/7509cd97-b76d-4157-a3d5-a7ac3e1aeb03)
 ![ppt09](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/448f5fa0-1dfe-4fcc-acf4-11bec0cccf06)
 ![ppt10](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/e5bb8229-6a68-40c3-b2e8-94925f6490e7)
-![ppt11](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/4a0ff223-9aae-43dd-80c1-e50b9aec75e3)
+
 
 ## 기능 요구사항
 <details>
   <summary>
     기능 요구사항
   </summary>
-  
+   
+![ppt11](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/4a0ff223-9aae-43dd-80c1-e50b9aec75e3)
 ![ppt12](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/706a7037-b976-4415-9d5b-b05537f1c7fd)
 ![ppt13](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/5bff6a97-ac61-4620-ba85-f4bf4acf4961)
 ![ppt14](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/0e093d5b-104e-4966-a847-2040cfd7f1ae)
