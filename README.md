@@ -2,18 +2,39 @@
 Making airline website by eclipse and jsp using MVC pattern
 
 ## 목차    
-1. [개발환경](#-개발환경)  
-2. [프로젝트 개발 일정 및 역할분담](#-조원)     
+1. [개발환경](#개발환경)  
+2. [프로젝트 개발 일정 및 역할분담](#프로젝트-개발-일정-및-역할분담)     
 4. [Diagram](#diagram)   
 5. [기능 요구사항](#기능-요구사항)     
 6. [시연 영상](#-시연-영상)
 
+<details>
+  <summary>
+    PPT
+  </summary>
    
 ![ppt01](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/b60e86ee-c396-45c7-ab4a-49aad2954eca)
 ![ppt02](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/f8f0b8f7-88a0-4227-989b-e6d1715047de)
+</details>details>
+
+## 개발환경
+<details>
+  <summary>
+    ER Diagram, Class Diagram
+  </summary>
+   
 ![ppt03](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/b8adf69b-c905-4614-97ae-b13aa5d389b1)
+</details>
+
+## 프로젝트 개발 일정 및 역할분담
+<details>
+  <summary>
+    ER Diagram, Class Diagram
+  </summary>
+   
 ![ppt04](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/5178a0f6-1a39-451a-ad9c-50833d67de4a)
 ![ppt05](https://github.com/dwdwdw12/project_eclipse_jsp/assets/147116004/a4a8ae31-1b05-4620-ba4f-8c3a061f0c0d)
+</details>
 
 ## Diagram
 <details>
